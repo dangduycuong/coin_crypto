@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1036223034217",
+    "project_id": "coin-crypto-58dc2",
+    "storage_bucket": "coin-crypto-58dc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036223034217:android:7d858ec8ca85ac6cf7c3f8",
+        "android_client_info": {
+          "package_name": "com.example.coin_crypto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036223034217-m309mdobaqkrg42t3pfc8t895m9vflo8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqTBXGa5ir0OE7UhN3pFm5cXZvkxePW_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036223034217-m309mdobaqkrg42t3pfc8t895m9vflo8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1036223034217-djin6n9c1028rpp13hhednnvu02le2bv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.coinCrypto"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
